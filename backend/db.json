@@ -4,42 +4,35 @@
         "id": 1,
         "title": "Pancakes",
         "description": "Fluffy pancakes served with maple syrup and butter. A classic breakfast favorite.",
-        "imageUrl": "/images/pancakes.jpg",
+        "imageUrl": "images/pancakes.jpg",
         "category": "Breakfast"
       },
       {
         "id": 2,
         "title": "Grilled Chicken Sandwich",
         "description": "A healthy grilled chicken sandwich with fresh veggies and a hint of mayo. A light and delicious lunch option.",
-        "imageUrl": "/images/grilled-chicken-sandwich.jpg",
+        "imageUrl": "images/grilled-chicken-sandwich.jpg",
         "category": "Lunch"
       },
       {
         "id": 3,
         "title": "Spaghetti Bolognese",
         "description": "Classic spaghetti Bolognese with a rich tomato and meat sauce. A hearty meal for lunch or dinner.",
-        "imageUrl": "/images/spaghetti-bolognese.jpg",
+        "imageUrl": "images/spaghetti-bolognese.jpg",
         "category": "Lunch"
       },
       {
         "id": 4,
         "title": "Roast Beef Dinner",
         "description": "Juicy roast beef served with mashed potatoes and gravy. A perfect meal for dinner.",
-        "imageUrl": "/images/roast-beef.jpg",
+        "imageUrl": "images/roast-beef.jpg",
         "category": "Dinner"
       },
       {
         "id": 5,
         "title": "Vanilla Cake",
         "description": "A soft, buttery vanilla cake topped with creamy frosting. Perfect as a dessert or snack.",
-        "imageUrl": "/images/vanilla-cake.jpg",
-        "category": "Dessert"
-      },
-      {
-        "id": 6,
-        "title": "Chocolate Chip Cookies",
-        "description": "Crispy on the outside, chewy on the inside chocolate chip cookies. Ideal as a dessert or snack.",
-        "imageUrl": "/images/cookies.jpg",
+        "imageUrl": "images/vanilla-cake.jpg",
         "category": "Dessert"
       }
     ]
