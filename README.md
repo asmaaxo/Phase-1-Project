@@ -1,5 +1,5 @@
-# Portfolio
-#### The app is my Portfolio, 16/10/2024
+# Recipe App
+#### The app is my Recipe APp, 16/10/2024
 #### **By Asmaa ABdi**
 ## Description
 This Recipe App is a Single Page Application (SPA) built using HTML, CSS, and JavaScript. It allows users to view a list of recipes, filter them based on a search term, like (upvote) their favorite recipes, and toggle between dark and light modes. The app fetches recipe data from a local json-server that serves data stored in db.json.
