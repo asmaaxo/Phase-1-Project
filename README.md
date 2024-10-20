@@ -4,6 +4,8 @@
 ## Description
 This Recipe App is a Single Page Application (SPA) built using HTML, CSS, and JavaScript. It allows users to view a list of recipes, filter them based on a search term, like (upvote) their favorite recipes, and toggle between dark and light modes. The app fetches recipe data from a local json-server that serves data stored in db.json.
 
+Slideshow link: https://docs.google.com/presentation/d/1g006wmIb58Pivz5QMRoWcFhnFs9EOloUocSXqF4EoMo/edit?usp=sharing
+
 Key features include:
 
 Displaying a collection of recipes with titles and descriptions.
@@ -19,7 +21,7 @@ A dark/light mode toggle to switch between visual themes.
 * And you are all done
 
 ## Live server
-* You can view the web live on [Portfolio]()
+* You can view the web live on [Demo](https://github.com/asmaaxo/Phase-1-Project-Recipe-App)
 
 ## Known Bugs
 The application works perfectly well, no bugs.
@@ -31,6 +33,6 @@ HTML, CSS, JavaScript, json-server, GIT
 email :: asmaaabdi03@gmail.com
 
 ### License
-*LIcenced under the [MT-licence](https://github.com/k-koech/portfolio-sdft11/blob/master/LICENSE.md)*
+*LIcenced under the [MT-licence](https://github.com/k-koech/portfolio-sdft11/blob/)*
 
 Copyright (c) 2024 **Asmaa Abdi**
